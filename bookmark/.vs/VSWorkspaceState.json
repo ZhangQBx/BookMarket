@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\config",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\static"
+  ],
+  "SelectedNode": "\\config\\dev.env.js",
+  "PreviewInSolutionExplorer": false
+}
